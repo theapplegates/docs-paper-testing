@@ -1,0 +1,15 @@
+{
+  "index_name": "paper",
+  "start_urls": [
+	"https://regal-faloodeh-358b11.netlify.app"
+  ],
+  "selectors": {
+	"lvl0": ".page-heading",
+	"lvl1": "h1",
+	"lvl2": "h2",
+	"lvl3": "h3",
+	"lvl4": "h4",
+	"lvl5": "h5",
+	"text": "p"
+  }
+}
